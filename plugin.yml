@@ -1,0 +1,4 @@
+name: RoyalFHF
+main: royal\Main
+version: 0.0.1
+api: 3.15.0
